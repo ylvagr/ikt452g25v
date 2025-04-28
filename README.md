@@ -47,3 +47,7 @@ You should now be able to run the experiments.
 
 - Graph Tsetlin Machine [Granmo et al., 2025](https://github.com/cair/GraphTsetlinMachine)
 - CIFAR-10 Dataset [Krizhevsky, 2009](https://api.semanticscholar.org/CorpusID:18268744)
+
+## Contributors 
+
+Ylva Grønningsæter & Katsiaryna Labkouskaya
