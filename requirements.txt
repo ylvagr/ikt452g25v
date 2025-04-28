@@ -10,3 +10,4 @@ tensorflow==2.19.0
 opencv-python-headless==4.11.0.86
 matplotlib==3.10.1
 seaborn==0.13.2
+ipykernel
