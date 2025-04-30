@@ -46,8 +46,5 @@ You should now be able to run the experiments.
 ## References
 
 - Graph Tsetlin Machine [Granmo et al., 2025](https://github.com/cair/GraphTsetlinMachine)
+- Coalesced Tsetlin Machine [Glimsdal and Granmo, 2021](https://github.com/cair/PyCoalescedTsetlinMachineCUDA)
 - CIFAR-10 Dataset [Krizhevsky, 2009](https://api.semanticscholar.org/CorpusID:18268744)
-
-## Contributors 
-
-Ylva Grønningsæter & Katsiaryna Labkouskaya
